@@ -89,6 +89,8 @@ Tabela Locacoes
 */
 
 
+
+
 INSERT INTO Clientes VALUES
 (
    0,

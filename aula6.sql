@@ -17,7 +17,7 @@ CREATE TABLE clientes (
 
 CREATE TABLE carros (
 	id  	INT AUTO_INCREMENT PRIMARY KEY  ,
-	idCliente 	INT				  ,
+	idclientes 	INT				  ,
 	placa 	VARCHAR(8)			  ,
 	tipo 	VARCHAR(10)			  ,
 	fabricante VARCHAR(25) 			  ,
